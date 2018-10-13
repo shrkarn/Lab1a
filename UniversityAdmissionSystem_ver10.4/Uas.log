@@ -1,0 +1,302 @@
+06-Oct-2018 12:05:51 INFO [DB]- Driver Loaded
+06-Oct-2018 12:06:16 INFO [root]- Application is rejected
+06-Oct-2018 12:06:25 INFO [root]- Exiting the Application.....
+06-Oct-2018 12:15:15 INFO [DB]- Driver Loaded
+06-Oct-2018 12:15:38 ERROR [root]- Please enter Date of Interview in mentioned format
+06-Oct-2018 12:16:05 ERROR [root]- Please enter Date of Interview in mentioned format
+06-Oct-2018 12:17:10 ERROR [root]- Please enter Date of Interview in mentioned format
+06-Oct-2018 12:22:44 INFO [DB]- Driver Loaded
+06-Oct-2018 12:22:59 ERROR [root]- Please enter Date of Interview in mentioned format
+06-Oct-2018 14:34:01 INFO [DB]- Driver Loaded
+06-Oct-2018 14:34:32 INFO [root]- Application is rejected
+06-Oct-2018 14:35:04 ERROR [root]- Please enter Date of Interview in mentioned format
+06-Oct-2018 14:40:19 INFO [DB]- Driver Loaded
+06-Oct-2018 14:40:46 ERROR [root]- Please enter Date of Interview in mentioned format
+06-Oct-2018 14:41:59 INFO [DB]- Driver Loaded
+06-Oct-2018 14:45:14 INFO [DB]- Driver Loaded
+06-Oct-2018 14:45:43 INFO [root]- Application is accepted
+06-Oct-2018 14:47:41 INFO [DB]- Driver Loaded
+06-Oct-2018 14:48:00 INFO [root]- Exiting the Application.....
+06-Oct-2018 14:48:19 INFO [DB]- Driver Loaded
+06-Oct-2018 14:49:07 INFO [ApplicantDAO]- Program id's retrieved Successfully
+06-Oct-2018 14:49:07 INFO [ApplicantDAO]- Applicant details added successfully:
+06-Oct-2018 14:49:44 INFO [DB]- Driver Loaded
+06-Oct-2018 14:50:08 INFO [root]- Application is accepted
+06-Oct-2018 15:09:07 INFO [DB]- Driver Loaded
+06-Oct-2018 15:10:08 INFO [ApplicantDAO]- Program id's retrieved Successfully
+06-Oct-2018 15:10:08 INFO [ApplicantDAO]- Applicant details added successfully:
+06-Oct-2018 15:10:24 INFO [DB]- Driver Loaded
+06-Oct-2018 15:14:40 INFO [DB]- Driver Loaded
+06-Oct-2018 15:16:20 INFO [root]- Application is accepted
+06-Oct-2018 15:23:52 INFO [DB]- Driver Loaded
+06-Oct-2018 15:24:06 INFO [root]- Exiting the Application.....
+06-Oct-2018 15:24:57 INFO [DB]- Driver Loaded
+06-Oct-2018 15:25:32 INFO [ApplicantDAO]- Program id's retrieved Successfully
+06-Oct-2018 15:25:32 INFO [ApplicantDAO]- Applicant details added successfully:
+06-Oct-2018 15:26:00 INFO [DB]- Driver Loaded
+06-Oct-2018 15:26:30 INFO [root]- Application is accepted
+06-Oct-2018 15:39:42 INFO [DB]- Driver Loaded
+06-Oct-2018 15:41:17 INFO [DB]- Driver Loaded
+06-Oct-2018 15:49:10 INFO [DB]- Driver Loaded
+06-Oct-2018 15:51:17 INFO [DB]- Driver Loaded
+06-Oct-2018 15:55:45 INFO [DB]- Driver Loaded
+06-Oct-2018 15:58:35 INFO [DB]- Driver Loaded
+06-Oct-2018 16:00:17 INFO [DB]- Driver Loaded
+06-Oct-2018 16:01:35 INFO [DB]- Driver Loaded
+06-Oct-2018 16:03:58 INFO [DB]- Driver Loaded
+06-Oct-2018 16:05:15 INFO [DB]- Driver Loaded
+06-Oct-2018 16:06:12 INFO [DB]- Driver Loaded
+06-Oct-2018 16:07:50 INFO [DB]- Driver Loaded
+06-Oct-2018 16:09:00 INFO [DB]- Driver Loaded
+06-Oct-2018 16:10:05 INFO [DB]- Driver Loaded
+06-Oct-2018 16:11:05 INFO [DB]- Driver Loaded
+06-Oct-2018 16:12:14 INFO [DB]- Driver Loaded
+06-Oct-2018 16:13:07 INFO [DB]- Driver Loaded
+06-Oct-2018 16:14:48 INFO [DB]- Driver Loaded
+06-Oct-2018 16:19:28 INFO [DB]- Driver Loaded
+06-Oct-2018 16:20:17 INFO [DB]- Driver Loaded
+06-Oct-2018 16:29:56 INFO [DB]- Driver Loaded
+06-Oct-2018 16:31:37 INFO [DB]- Driver Loaded
+06-Oct-2018 16:32:22 INFO [ApplicantDAO]- Program id's retrieved Successfully
+06-Oct-2018 16:32:22 INFO [ApplicantDAO]- Applicant details added successfully:
+06-Oct-2018 16:32:49 INFO [DB]- Driver Loaded
+06-Oct-2018 16:33:29 INFO [root]- Application is accepted
+06-Oct-2018 16:42:18 INFO [DB]- Driver Loaded
+06-Oct-2018 16:42:58 INFO [root]- Exiting the Application.....
+06-Oct-2018 16:43:15 INFO [DB]- Driver Loaded
+06-Oct-2018 16:43:57 INFO [ApplicantDAO]- Program id's retrieved Successfully
+06-Oct-2018 16:43:57 INFO [ApplicantDAO]- Applicant details added successfully:
+06-Oct-2018 16:44:28 INFO [DB]- Driver Loaded
+06-Oct-2018 17:08:17 INFO [DB]- Driver Loaded
+06-Oct-2018 17:08:47 INFO [root]- Application is accepted
+06-Oct-2018 17:09:43 INFO [DB]- Driver Loaded
+06-Oct-2018 17:09:56 INFO [DB]- Driver Loaded
+06-Oct-2018 17:10:29 INFO [ApplicantDAO]- Program id's retrieved Successfully
+06-Oct-2018 17:10:29 INFO [ApplicantDAO]- Applicant details added successfully:
+06-Oct-2018 17:10:45 INFO [DB]- Driver Loaded
+06-Oct-2018 17:11:12 INFO [root]- Application is accepted
+06-Oct-2018 17:11:48 INFO [DB]- Driver Loaded
+06-Oct-2018 17:12:09 INFO [ApplicantDAO]- Program id's retrieved Successfully
+06-Oct-2018 17:12:09 INFO [ApplicantDAO]- Applicant details added successfully:
+06-Oct-2018 17:12:36 INFO [DB]- Driver Loaded
+06-Oct-2018 17:12:55 INFO [root]- Application is accepted
+06-Oct-2018 17:13:03 INFO [root]- Exiting the Application.....
+09-Oct-2018 08:45:43 INFO [DB]- Driver Loaded
+09-Oct-2018 08:52:48 INFO [DB]- Driver Loaded
+09-Oct-2018 08:57:32 INFO [DB]- Driver Loaded
+09-Oct-2018 09:00:42 INFO [DB]- Driver Loaded
+09-Oct-2018 11:27:31 INFO [DB]- Driver Loaded
+09-Oct-2018 11:30:13 INFO [DB]- Driver Loaded
+09-Oct-2018 11:30:43 INFO [root]- Exiting the Application.....
+09-Oct-2018 11:37:39 INFO [DB]- Driver Loaded
+09-Oct-2018 13:56:39 INFO [DB]- Driver Loaded
+09-Oct-2018 13:56:49 INFO [root]- Exiting the Application.....
+10-Oct-2018 09:14:54 INFO [DB]- Driver Loaded
+10-Oct-2018 09:15:22 INFO [AdminDAO]- Program Offered details added successfully
+10-Oct-2018 09:15:22 INFO [root]- Program Added
+10-Oct-2018 09:19:19 INFO [DB]- Driver Loaded
+10-Oct-2018 09:20:31 INFO [AdminDAO]- Program Offered details updated successfully:
+10-Oct-2018 09:20:31 INFO [root]- Program Updated
+10-Oct-2018 09:24:22 INFO [DB]- Driver Loaded
+10-Oct-2018 09:24:43 INFO [AdminDAO]- Program Offered successfully deleted
+10-Oct-2018 09:24:43 INFO [root]- Program Deleted
+10-Oct-2018 09:47:04 INFO [DB]- Driver Loaded
+10-Oct-2018 09:55:20 INFO [root]- Programs Offered by University managed. Exiting.... 
+10-Oct-2018 10:51:26 INFO [DB]- Driver Loaded
+10-Oct-2018 10:52:52 INFO [root]- Programs Offered by University managed. Exiting.... 
+10-Oct-2018 11:09:05 INFO [DB]- Driver Loaded
+10-Oct-2018 11:11:01 INFO [root]- No Accepted Applicants found
+10-Oct-2018 11:11:01 INFO [root]- Confirmed Applicant list Displyed
+10-Oct-2018 11:11:01 INFO [root]- No Rejected Applicants found
+10-Oct-2018 11:15:23 INFO [DB]- Driver Loaded
+10-Oct-2018 11:16:17 INFO [AdminDAO]- Program Offered details added successfully
+10-Oct-2018 11:16:17 INFO [root]- Program Added
+10-Oct-2018 11:17:30 INFO [AdminDAO]- Program Offered details updated successfully:
+10-Oct-2018 11:17:30 INFO [root]- Program Updated
+10-Oct-2018 11:17:42 INFO [AdminDAO]- Program Offered successfully deleted
+10-Oct-2018 11:17:42 INFO [root]- Program Deleted
+10-Oct-2018 11:17:51 INFO [root]- Programs Offered by University managed. Exiting.... 
+10-Oct-2018 11:19:13 INFO [DB]- Driver Loaded
+10-Oct-2018 11:32:40 INFO [DB]- Driver Loaded
+10-Oct-2018 12:12:23 INFO [DB]- Driver Loaded
+10-Oct-2018 12:27:00 INFO [DB]- Driver Loaded
+10-Oct-2018 13:47:25 INFO [DB]- Driver Loaded
+10-Oct-2018 13:47:44 ERROR [AdminDAO]- Deletion failed 
+10-Oct-2018 13:49:49 INFO [DB]- Driver Loaded
+10-Oct-2018 13:49:56 ERROR [AdminDAO]- ORA-02292: integrity constraint (SYSTEM.SYS_C007282) violated - child record found
+Technical problem
+10-Oct-2018 13:58:40 INFO [root]- Programs Schedule managed. Exiting.... 
+10-Oct-2018 13:59:16 INFO [DB]- Driver Loaded
+10-Oct-2018 14:08:09 INFO [DB]- Driver Loaded
+10-Oct-2018 14:08:44 ERROR [AdminDAO]- java.sql.SQLException: ORA-00904: "START_DATE": invalid identifier
+
+10-Oct-2018 14:09:59 INFO [DB]- Driver Loaded
+10-Oct-2018 14:10:27 ERROR [AdminDAO]- java.sql.SQLException: ORA-00904: "START_DATE": invalid identifier
+
+10-Oct-2018 14:11:05 INFO [DB]- Driver Loaded
+10-Oct-2018 14:11:24 ERROR [AdminDAO]- java.sql.SQLException: ORA-00904: "START_DATE": invalid identifier
+
+10-Oct-2018 14:24:30 INFO [DB]- Driver Loaded
+10-Oct-2018 14:24:55 INFO [root]- Program Schedule list Displyed
+10-Oct-2018 14:26:36 INFO [root]- Reports viewed. Exiting...
+10-Oct-2018 14:26:55 INFO [DB]- Driver Loaded
+10-Oct-2018 14:27:24 ERROR [AdminDAO]- ORA-02292: integrity constraint (SYSTEM.SYS_C007282) violated - child record found
+Technical problem
+10-Oct-2018 14:34:16 INFO [DB]- Driver Loaded
+10-Oct-2018 15:16:40 INFO [DB]- Driver Loaded
+10-Oct-2018 15:25:53 INFO [DB]- Driver Loaded
+10-Oct-2018 15:26:28 INFO [AdminDAO]- Program Schedule details added successfully
+10-Oct-2018 15:28:14 INFO [DB]- Driver Loaded
+10-Oct-2018 15:28:52 ERROR [AdminDAO]- ORA-00001: unique constraint (SYSTEM.SYS_C007279) violated
+Technical problem
+10-Oct-2018 15:31:17 INFO [AdminDAO]- Program Schedule details added successfully
+10-Oct-2018 15:31:17 INFO [root]- Program Schedule added
+10-Oct-2018 15:33:51 INFO [AdminDAO]- Program Schedule deleted successfully:
+10-Oct-2018 15:33:51 INFO [root]- Program Schedule deleted
+10-Oct-2018 16:04:16 INFO [DB]- Driver Loaded
+10-Oct-2018 16:05:47 INFO [DB]- Driver Loaded
+10-Oct-2018 16:06:55 INFO [DB]- Driver Loaded
+10-Oct-2018 16:07:02 INFO [root]- Program Schedule not deleted
+12-Oct-2018 15:35:12 INFO [DB]- Driver Loaded
+12-Oct-2018 15:38:25 INFO [DB]- Driver Loaded
+12-Oct-2018 15:38:53 INFO [ApplicantDAO]- Program id's retrieved Successfully
+12-Oct-2018 15:50:23 INFO [DB]- Driver Loaded
+12-Oct-2018 15:50:25 INFO [ApplicantDAO]- Scheduled Program list fetched Successfully
+12-Oct-2018 15:50:27 INFO [ApplicantDAO]- Scheduled Program list fetched Successfully
+12-Oct-2018 15:50:29 INFO [ApplicantDAO]- Scheduled Program list fetched Successfully
+12-Oct-2018 15:50:58 INFO [ApplicantDAO]- Scheduled Program id's retrieved Successfully
+12-Oct-2018 15:50:59 INFO [ApplicantDAO]- Applicant details added successfully:
+12-Oct-2018 15:52:06 INFO [ApplicantDAO]- Application id's retrieved Successfully
+12-Oct-2018 15:52:06 INFO [ApplicantDAO]- Applicant Status Record Found Successfully
+12-Oct-2018 16:07:12 INFO [DB]- Driver Loaded
+12-Oct-2018 16:07:14 ERROR [ApplicantDAO]- java.sql.SQLSyntaxErrorException: ORA-00942: table or view does not exist
+
+12-Oct-2018 16:08:57 INFO [DB]- Driver Loaded
+12-Oct-2018 16:08:58 INFO [ApplicantDAO]- Scheduled Program list fetched Successfully
+12-Oct-2018 16:09:38 INFO [ApplicantDAO]- Scheduled Program id's retrieved Successfully
+12-Oct-2018 16:09:38 INFO [ApplicantDAO]- Applicant details added successfully:
+12-Oct-2018 16:09:43 INFO [ApplicantDAO]- Scheduled Program list fetched Successfully
+12-Oct-2018 16:10:07 INFO [ApplicantDAO]- Scheduled Program id's retrieved Successfully
+12-Oct-2018 16:10:13 INFO [ApplicantDAO]- Scheduled Program list fetched Successfully
+12-Oct-2018 16:10:33 INFO [ApplicantDAO]- Scheduled Program list fetched Successfully
+12-Oct-2018 16:10:59 INFO [ApplicantDAO]- Scheduled Program id's retrieved Successfully
+12-Oct-2018 16:17:11 INFO [DB]- Driver Loaded
+12-Oct-2018 16:17:11 INFO [ApplicantDAO]- Scheduled Program list fetched Successfully
+12-Oct-2018 16:17:13 INFO [ApplicantDAO]- Scheduled Program list fetched Successfully
+12-Oct-2018 16:17:36 INFO [ApplicantDAO]- Scheduled Program id's retrieved Successfully
+12-Oct-2018 16:17:36 INFO [ApplicantDAO]- Applicant details added successfully:
+12-Oct-2018 16:17:44 INFO [ApplicantDAO]- Application id's retrieved Successfully
+12-Oct-2018 16:17:44 INFO [ApplicantDAO]- Applicant Status Record Found Successfully
+12-Oct-2018 16:18:36 INFO [DB]- Driver Loaded
+12-Oct-2018 16:20:30 INFO [root]- Application is accepted
+12-Oct-2018 16:21:01 INFO [root]- 102Participant is added
+12-Oct-2018 16:21:11 INFO [root]- Exiting the Application.....
+12-Oct-2018 16:21:41 INFO [DB]- Driver Loaded
+12-Oct-2018 16:23:01 INFO [DB]- Driver Loaded
+12-Oct-2018 16:23:15 INFO [root]- No Accepted Applicants found
+12-Oct-2018 16:23:15 INFO [root]- Confirmed Applicant list Displyed
+12-Oct-2018 16:23:15 INFO [root]- No Rejected Applicants found
+12-Oct-2018 16:24:05 INFO [root]- Reports viewed. Exiting...
+12-Oct-2018 16:38:57 INFO [DB]- Driver Loaded
+12-Oct-2018 16:39:46 INFO [root]- Program Schedule list Displyed
+12-Oct-2018 16:43:13 INFO [DB]- Driver Loaded
+12-Oct-2018 16:43:30 INFO [root]- Program Schedule list Displyed
+12-Oct-2018 16:44:04 INFO [DB]- Driver Loaded
+12-Oct-2018 16:44:17 INFO [root]- Program Schedule list Displyed
+12-Oct-2018 16:45:26 INFO [DB]- Driver Loaded
+12-Oct-2018 16:46:03 INFO [root]- Program Schedule list Displyed
+12-Oct-2018 17:09:16 INFO [DB]- Driver Loaded
+12-Oct-2018 17:09:17 INFO [ApplicantDAO]- Scheduled Program list fetched Successfully
+12-Oct-2018 17:13:23 INFO [DB]- Driver Loaded
+12-Oct-2018 17:13:24 INFO [ApplicantDAO]- Scheduled Program list fetched Successfully
+12-Oct-2018 17:14:19 INFO [ApplicantDAO]- Scheduled Program id's retrieved Successfully
+12-Oct-2018 17:14:30 INFO [ApplicantDAO]- Scheduled Program list fetched Successfully
+12-Oct-2018 17:14:56 INFO [ApplicantDAO]- Scheduled Program id's retrieved Successfully
+12-Oct-2018 17:14:56 INFO [ApplicantDAO]- Applicant details added successfully:
+12-Oct-2018 17:15:00 INFO [ApplicantDAO]- Scheduled Program list fetched Successfully
+12-Oct-2018 17:15:32 INFO [ApplicantDAO]- Scheduled Program id's retrieved Successfully
+12-Oct-2018 17:15:32 INFO [ApplicantDAO]- Applicant details added successfully:
+12-Oct-2018 17:38:13 ERROR [root]- please enter valid choice.
+13-Oct-2018 10:48:42 INFO [DB]- Driver Loaded
+13-Oct-2018 10:49:20 INFO [AdminDAO]- Program Offered details added successfully
+13-Oct-2018 10:49:20 INFO [root]- Program Added
+13-Oct-2018 10:50:44 INFO [root]- Program not Updated
+13-Oct-2018 10:51:15 INFO [AdminDAO]- Program Offered details updated successfully:
+13-Oct-2018 10:51:15 INFO [root]- Program Updated
+13-Oct-2018 10:51:52 INFO [AdminDAO]- Program Offered successfully deleted
+13-Oct-2018 10:51:52 INFO [root]- Program Deleted
+13-Oct-2018 10:56:47 INFO [root]- Programs Offered by University managed. Exiting.... 
+13-Oct-2018 10:57:08 INFO [DB]- Driver Loaded
+13-Oct-2018 10:57:17 INFO [root]- Programs Offered by University managed. Exiting.... 
+13-Oct-2018 11:08:03 INFO [DB]- Driver Loaded
+13-Oct-2018 11:42:05 INFO [DB]- Driver Loaded
+13-Oct-2018 11:42:21 INFO [root]- No Accepted Applicants found
+13-Oct-2018 11:42:21 INFO [root]- Confirmed Applicant list Displyed
+13-Oct-2018 11:42:21 INFO [root]- No Rejected Applicants found
+13-Oct-2018 11:44:34 INFO [DB]- Driver Loaded
+13-Oct-2018 11:44:41 INFO [root]- No Accepted Applicants found
+13-Oct-2018 11:44:41 INFO [root]- Confirmed Applicant list Displyed
+13-Oct-2018 11:44:41 INFO [root]- No Rejected Applicants found
+13-Oct-2018 11:45:33 INFO [DB]- Driver Loaded
+13-Oct-2018 11:45:42 INFO [root]- No Accepted Applicants found
+13-Oct-2018 11:45:42 INFO [root]- Confirmed Applicant list Displyed
+13-Oct-2018 11:45:42 INFO [root]- No Rejected Applicants found
+13-Oct-2018 11:46:39 INFO [DB]- Driver Loaded
+13-Oct-2018 11:46:39 INFO [root]- Invalid Login
+13-Oct-2018 11:46:55 INFO [root]- No Accepted Applicants found
+13-Oct-2018 11:46:55 INFO [root]- Confirmed Applicant list Displyed
+13-Oct-2018 11:46:55 INFO [root]- No Rejected Applicants found
+13-Oct-2018 11:47:30 INFO [DB]- Driver Loaded
+13-Oct-2018 11:47:40 INFO [root]- No Accepted Applicants found
+13-Oct-2018 11:47:40 INFO [root]- Confirmed Applicant list Displyed
+13-Oct-2018 11:47:40 INFO [root]- No Rejected Applicants found
+13-Oct-2018 11:48:18 INFO [DB]- Driver Loaded
+13-Oct-2018 11:48:30 INFO [root]- No Accepted Applicants found
+13-Oct-2018 11:48:30 INFO [root]- Confirmed Applicant list Displyed
+13-Oct-2018 11:48:30 INFO [root]- No Rejected Applicants found
+13-Oct-2018 11:49:20 INFO [DB]- Driver Loaded
+13-Oct-2018 11:49:27 INFO [root]- No Accepted Applicants found
+13-Oct-2018 11:49:27 INFO [root]- Confirmed Applicant list Displyed
+13-Oct-2018 11:49:27 INFO [root]- No Rejected Applicants found
+13-Oct-2018 12:26:40 INFO [DB]- Driver Loaded
+13-Oct-2018 12:27:00 INFO [AdminDAO]- Program Offered details added successfully
+13-Oct-2018 12:27:00 INFO [root]- Program Added
+13-Oct-2018 12:27:11 INFO [AdminDAO]- Program Offered details updated successfully:
+13-Oct-2018 12:27:11 INFO [root]- Program Updated
+13-Oct-2018 12:27:17 INFO [AdminDAO]- Program Offered successfully deleted
+13-Oct-2018 12:27:17 INFO [root]- Program Deleted
+13-Oct-2018 12:27:53 INFO [root]- Programs Offered by University managed. Exiting.... 
+13-Oct-2018 12:28:15 INFO [DB]- Driver Loaded
+13-Oct-2018 12:29:07 INFO [AdminDAO]- Program Schedule details added successfully
+13-Oct-2018 12:29:07 INFO [root]- Program Schedule added
+13-Oct-2018 12:42:22 INFO [DB]- Driver Loaded
+13-Oct-2018 12:44:12 INFO [DB]- Driver Loaded
+13-Oct-2018 12:44:15 INFO [root]- Programs Schedule managed. Exiting.... 
+13-Oct-2018 12:44:27 INFO [DB]- Driver Loaded
+13-Oct-2018 12:48:24 INFO [DB]- Driver Loaded
+13-Oct-2018 12:48:32 INFO [root]- No Accepted Applicants found
+13-Oct-2018 12:48:32 INFO [root]- Confirmed Applicant list Displyed
+13-Oct-2018 12:48:32 INFO [root]- No Rejected Applicants found
+13-Oct-2018 12:51:53 INFO [DB]- Driver Loaded
+13-Oct-2018 12:52:11 INFO [AdminDAO]- Program Offered details added successfully
+13-Oct-2018 12:52:11 INFO [root]- Program Added
+13-Oct-2018 13:00:01 INFO [DB]- Driver Loaded
+13-Oct-2018 13:00:13 ERROR [root]- error occured
+13-Oct-2018 13:55:36 INFO [DB]- Driver Loaded
+13-Oct-2018 13:56:27 INFO [AdminDAO]- Program Schedule details added successfully
+13-Oct-2018 13:56:27 INFO [root]- Program Schedule added
+13-Oct-2018 14:13:22 INFO [DB]- Driver Loaded
+13-Oct-2018 14:13:54 ERROR [root]- error occured
+13-Oct-2018 14:14:08 INFO [root]- Program offer could not be added
+13-Oct-2018 14:26:05 ERROR [AdminDAO]- Program details not updated 
+13-Oct-2018 14:26:05 INFO [root]- Program offer could not be updated
+13-Oct-2018 14:57:42 INFO [DB]- Driver Loaded
+13-Oct-2018 14:59:01 INFO [DB]- Driver Loaded
+13-Oct-2018 14:59:39 INFO [DB]- Driver Loaded
+13-Oct-2018 15:11:17 ERROR [AdminDAO]- ORA-00001: unique constraint (SYSTEM.SYS_C007279) violated
+Technical problem
+13-Oct-2018 15:11:17 INFO [root]- Program schedule can not be added
+13-Oct-2018 15:13:38 INFO [DB]- Driver Loaded
+13-Oct-2018 15:19:27 INFO [DB]- Driver Loaded
+13-Oct-2018 15:21:21 INFO [root]- Invalid input
+13-Oct-2018 15:36:40 INFO [DB]- Driver Loaded
