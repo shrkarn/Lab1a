@@ -1,0 +1,69 @@
+Which of the given syntax is correct to display  date-time with the time zone in the ISO-8601 calendar system, such as 2007-12-03T10:15:30+01:00 Europe/Paris. 
+Assume the zone is Asia/kolkata.
+1). ZonedDateTime objt = ZonedDateTime.of(LocalDateTime.now(), ZoneId.of("Asia/Kolkata"));
+2). LocalDate date = LocalDate.now(ZoneId.of("Asia/Kolkata"));
+3). ZonedDateTime time = new ZonedDateTime("Asia/Kolkata");
+4). ZonedDateTime time = new ZonedDateTime.of("Asia/Kolkata");
+Solution :
+option [1] is correct
+Attempted :
+option [1] is attempted
+package com.cg;
+
+/*class Base{
+Base(int var)
+{
+    System.out.println("Base");
+    void display(){
+    	System.out.println("Hello");
+    }
+}
+}*/
+//public class Test {
+/*
+Test(int var) {
+		super(var);
+		// TODO Auto-generated constructor stub
+	}
+
+	static Integer var1 = new Integer(2); 
+	static Integer var2 = new Integer(2);
+public static void main(String argv[]){
+        //Test obj = new Test(6);
+	 if (var1==var2){
+	System.out.println("True");
+	 }else 
+		 System.out.println("false");
+}
+*/
+	
+	/*class Shape
+	{
+	public double calArea(){}
+	}
+	public class Test extends Shape
+	{
+	int radius;
+	public Test(int radius){
+	this.radius = radius;
+	}
+	public double calArea(){
+	return 3.142*radius*radius;
+	}
+	public static void main(String []args){
+	Shape obj = new Test(5);
+	System.out.println(obj.calArea());
+	}}
+*/
+public class Test {
+static String str1 = new String( "hello" );
+static String str2 = "hello";
+public static void main(String[] args) {
+	 if  (str1==str2) 
+         System.out.println( "Equals");
+      else
+         System.out.println( "Not Equal");
+}
+        
+
+}
