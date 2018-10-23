@@ -1,0 +1,86 @@
+What will be the output of the following JSP code assuming these are the only two 
+statements in JSP page? 
+
+<%! Date today = new Date(); %>
+<%= today %> 
+1). System date will be displayed in the browser
+2). Exception reporting Date can not be converted in String is displayed
+3). Exception report "Date can not be resolved" is displayed
+4). Todays' date is displayed.
+Solution :
+option [3] is correct
+Attempted :
+option [4] is attempted
+
+ Application is an implicit object of which interface or class?
+1). HttpSession
+2). GenericServlet
+3). ServletConfig
+4). ServletContext
+Solution :
+option [4] is correct
+Attempted :
+option [1] is attempted
+
+ What is the best option in JSP syntax for : out.println("JSP is meant for minimal of 
+Java code"); 
+1). <% "JSP is meant for minimal of Java code"; %>
+2). <% String jspStr = "JSP is meant for minimal of Java code";  out.println(jspStr);%>
+3). <%= "JSP is meant for minimal of Java code" %>
+4). <%= "JSP is meant for minimal of Java code" ; %>
+Solution :
+option [3] is correct
+Attempted :
+option [3] is attempted
+
+Which of the following attribute defines a jsp page as an exception handling pages?
+1). exceptionPage
+2). isErrorPage
+3). isExceptionPage
+4). errorPage
+Solution :
+option [2] is correct
+Attempted :
+option [3] is attempted
+
+ If you want to declare class variable in JSP, within what type of tags must you 
+declare the variable?
+1). <%@ … %>
+2). <%!.... %>
+3). <%.....%>
+4). <%-- --%>
+Solution :
+option [2] is correct
+Attempted :
+option [2] is attempted
+
+ Which of the following are not valid JSP code fragments?           
+1). <%@page import="java.util.*" %>
+2). <%java.util.Date d = new java.util.Date(); out.println(d);   %>
+3). <%! int c;%>
+4). <%= String val = request.getParameter("hello");   out.println(val);  %>
+Solution :
+option [4] is correct
+Attempted :
+option [2] is attempted
+
+Which of the following are not valid?
+1). <% @page import="java.util.*,java.io.*"%>
+2). <% @page errorPage="true" %>
+3). <% @page isErrorPage="error.jsp" %>
+4). <% @page include="pic1.jpg"%>
+Solution :
+option [2,3,4] are correct
+Attempted :
+option [4] is attempted
+
+Which of the following are the attributes of page directive?           
+1). flush
+2). buffer
+3). textinfo
+4). contentType
+Solution :
+option [2,4] are correct
+Attempted :
+option [4] is attempted
+
